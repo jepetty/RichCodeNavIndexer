@@ -51,7 +51,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],
       [
         "@richnav/rich-code-nav-indexer-core",
-        "npm:0.1.56-alpha"
+        "file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.30-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."
       ],
       [
         "@types/mocha",
@@ -102,7 +102,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@actions/github", "npm:4.0.0"],
             ["@actions/io", "npm:1.0.2"],
             ["@actions/tool-cache", "npm:1.6.0"],
-            ["@richnav/rich-code-nav-indexer-core", "npm:0.1.56-alpha"],
+            ["@richnav/rich-code-nav-indexer-core", "file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.30-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."],
             ["@types/mocha", "npm:8.0.1"],
             ["@types/node", "npm:14.0.27"],
             ["applicationinsights", "npm:1.8.5"],
@@ -669,10 +669,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@richnav/rich-code-nav-indexer-core", [
-        ["npm:0.1.56-alpha", {
-          "packageLocation": "./.yarn/cache/@richnav-rich-code-nav-indexer-core-npm-0.1.56-alpha-e977109186-fae064afd4.zip/node_modules/@richnav/rich-code-nav-indexer-core/",
+        ["file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.30-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A.", {
+          "packageLocation": "./.yarn/cache/@richnav-rich-code-nav-indexer-core-file-8e13e00daa-e5cfdfd589.zip/node_modules/@richnav/rich-code-nav-indexer-core/",
           "packageDependencies": [
-            ["@richnav/rich-code-nav-indexer-core", "npm:0.1.56-alpha"],
+            ["@richnav/rich-code-nav-indexer-core", "file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.30-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."],
             ["applicationinsights", "npm:1.8.5"],
             ["axios", "npm:0.18.1"],
             ["cloudbuild-task-contracts", "npm:0.1.66-alpha"],
@@ -3058,7 +3058,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@actions/github", "npm:4.0.0"],
             ["@actions/io", "npm:1.0.2"],
             ["@actions/tool-cache", "npm:1.6.0"],
-            ["@richnav/rich-code-nav-indexer-core", "npm:0.1.56-alpha"],
+            ["@richnav/rich-code-nav-indexer-core", "file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.30-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."],
             ["@types/mocha", "npm:8.0.1"],
             ["@types/node", "npm:14.0.27"],
             ["applicationinsights", "npm:1.8.5"],
