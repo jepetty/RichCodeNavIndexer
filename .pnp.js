@@ -51,7 +51,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],
       [
         "@richnav/rich-code-nav-indexer-core",
-        "file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.40-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."
+        "file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.41-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."
       ],
       [
         "@types/mocha",
@@ -102,7 +102,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@actions/github", "npm:4.0.0"],
             ["@actions/io", "npm:1.0.2"],
             ["@actions/tool-cache", "npm:1.6.0"],
-            ["@richnav/rich-code-nav-indexer-core", "file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.40-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."],
+            ["@richnav/rich-code-nav-indexer-core", "file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.41-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."],
             ["@types/mocha", "npm:8.0.1"],
             ["@types/node", "npm:14.0.27"],
             ["applicationinsights", "npm:1.8.7"],
@@ -669,10 +669,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@richnav/rich-code-nav-indexer-core", [
-        ["file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.40-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A.", {
-          "packageLocation": "./.yarn/cache/@richnav-rich-code-nav-indexer-core-file-bb8cb35e86-5cd04bc4b2.zip/node_modules/@richnav/rich-code-nav-indexer-core/",
+        ["file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.41-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A.", {
+          "packageLocation": "./.yarn/cache/@richnav-rich-code-nav-indexer-core-file-9c48acba28-215a53835a.zip/node_modules/@richnav/rich-code-nav-indexer-core/",
           "packageDependencies": [
-            ["@richnav/rich-code-nav-indexer-core", "file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.40-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."],
+            ["@richnav/rich-code-nav-indexer-core", "file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.41-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."],
             ["applicationinsights", "npm:1.8.7"],
             ["axios", "npm:0.18.1"],
             ["cloudbuild-task-contracts", "npm:0.1.66-alpha"],
@@ -683,6 +683,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["request", "npm:2.88.2"],
             ["rmdir-recursive", "npm:0.0.1"],
             ["stream-buffers", "npm:3.0.2"],
+            ["uuid", "npm:8.3.1"],
             ["which", "npm:2.0.2"]
           ],
           "linkType": "HARD",
@@ -3113,7 +3114,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@actions/github", "npm:4.0.0"],
             ["@actions/io", "npm:1.0.2"],
             ["@actions/tool-cache", "npm:1.6.0"],
-            ["@richnav/rich-code-nav-indexer-core", "file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.40-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."],
+            ["@richnav/rich-code-nav-indexer-core", "file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.41-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."],
             ["@types/mocha", "npm:8.0.1"],
             ["@types/node", "npm:14.0.27"],
             ["applicationinsights", "npm:1.8.7"],
@@ -3646,6 +3647,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/uuid-npm-3.4.0-4fd8ef88ad-1ce3f37e21.zip/node_modules/uuid/",
           "packageDependencies": [
             ["uuid", "npm:3.4.0"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:8.3.1", {
+          "packageLocation": "./.yarn/cache/uuid-npm-8.3.1-8a5b02e900-6a5d07c556.zip/node_modules/uuid/",
+          "packageDependencies": [
+            ["uuid", "npm:8.3.1"]
           ],
           "linkType": "HARD",
         }]

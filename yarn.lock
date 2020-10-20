@@ -495,9 +495,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@richnav/rich-code-nav-indexer-core@file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.40-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A.":
-  version: 0.1.40-alpha
-  resolution: "@richnav/rich-code-nav-indexer-core@file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.40-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."
+"@richnav/rich-code-nav-indexer-core@file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.41-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A.":
+  version: 0.1.41-alpha
+  resolution: "@richnav/rich-code-nav-indexer-core@file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.41-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."
   dependencies:
     applicationinsights: ^1.2.0
     axios: ^0.18.1
@@ -509,8 +509,9 @@ __metadata:
     request: ^2.88.0
     rmdir-recursive: ^0.0.1
     stream-buffers: ^3.0.2
+    uuid: ^8.3.1
     which: ^2.0.2
-  checksum: 5cd04bc4b27533a2c5c42f01e71a2eb09b306467193330233382aef8ca4e1f16140b4d3b72473af294d05985877cd6a28de94d59f8e682b1d970062e7bd34111
+  checksum: 215a53835ae523d454d644f01473372729fd2d1fa1a60208e9a6f80163712d622b0adaabdbb726df55f993cac52890f7b396a4cfb2a29c2b022429f9e594fe69
   languageName: node
   linkType: hard
 
@@ -2661,7 +2662,7 @@ resolve@^1.3.2:
     "@actions/github": ^4.0.0
     "@actions/io": ^1.0.2
     "@actions/tool-cache": ^1.3.0
-    "@richnav/rich-code-nav-indexer-core": /mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.40-alpha.tgz
+    "@richnav/rich-code-nav-indexer-core": /mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.41-alpha.tgz
     "@types/mocha": ^8.0.1
     "@types/node": ^14.0.27
     applicationinsights: ^1.8.7
@@ -3164,6 +3165,15 @@ typescript@^4.0.2:
   bin:
     uuid: ./bin/uuid
   checksum: 1ce3f37e214d6d0dc94a6a9663a0365013ace66bc3fd5b203e6f5d2eeb978aaee1192367222386345d30b4c6a447928c501121aa84c637724bf105ef57284949
+  languageName: node
+  linkType: hard
+
+"uuid@npm:^8.3.1":
+  version: 8.3.1
+  resolution: "uuid@npm:8.3.1"
+  bin:
+    uuid: dist/bin/uuid
+  checksum: 6a5d07c5564614271237d8bbc5c1c72abf056343e91af8f67a8e6d29957a1a061f347b8425a1e499af32f5a8f0039c44d200dff663b9a8090c51a7f7b5031534
   languageName: node
   linkType: hard
 
