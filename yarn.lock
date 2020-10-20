@@ -495,9 +495,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@richnav/rich-code-nav-indexer-core@npm:^0.1.73-alpha":
-  version: 0.1.73-alpha
-  resolution: "@richnav/rich-code-nav-indexer-core@npm:0.1.73-alpha"
+"@richnav/rich-code-nav-indexer-core@file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.40-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A.":
+  version: 0.1.40-alpha
+  resolution: "@richnav/rich-code-nav-indexer-core@file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.40-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."
   dependencies:
     applicationinsights: ^1.2.0
     axios: ^0.18.1
@@ -510,7 +510,7 @@ __metadata:
     rmdir-recursive: ^0.0.1
     stream-buffers: ^3.0.2
     which: ^2.0.2
-  checksum: 5f912cd5b354d7a71cfb81428dc2a70b240e75ad9d37d217e9d33dddbe8b224b4f72d08a91c7ca1e43bfefd37b8a752fb96edf2ffb10284f682b3eca648e68b4
+  checksum: 5cd04bc4b27533a2c5c42f01e71a2eb09b306467193330233382aef8ca4e1f16140b4d3b72473af294d05985877cd6a28de94d59f8e682b1d970062e7bd34111
   languageName: node
   linkType: hard
 
@@ -628,19 +628,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"applicationinsights@npm:^1.2.0":
-  version: 1.8.5
-  resolution: "applicationinsights@npm:1.8.5"
-  dependencies:
-    cls-hooked: ^4.2.2
-    continuation-local-storage: ^3.2.1
-    diagnostic-channel: 0.3.1
-    diagnostic-channel-publishers: 0.4.1
-  checksum: 787f777d6af07c902a34b888fceca665ea884a41abecdfc78735165e919e888d767f351ea46e49b8017d58417ece77eea879fa56c249fffeb2dfcd21fdf86c55
-  languageName: node
-  linkType: hard
-
-"applicationinsights@npm:^1.8.7":
+"applicationinsights@npm:^1.2.0, applicationinsights@npm:^1.8.7":
   version: 1.8.7
   resolution: "applicationinsights@npm:1.8.7"
   dependencies:
@@ -2673,7 +2661,7 @@ resolve@^1.3.2:
     "@actions/github": ^4.0.0
     "@actions/io": ^1.0.2
     "@actions/tool-cache": ^1.3.0
-    "@richnav/rich-code-nav-indexer-core": ^0.1.73-alpha
+    "@richnav/rich-code-nav-indexer-core": /mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.40-alpha.tgz
     "@types/mocha": ^8.0.1
     "@types/node": ^14.0.27
     applicationinsights: ^1.8.7
