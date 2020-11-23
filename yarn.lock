@@ -502,9 +502,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@richnav/rich-code-nav-indexer-core@file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.56-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A.":
-  version: 0.1.56-alpha
-  resolution: "@richnav/rich-code-nav-indexer-core@file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.56-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."
+"@richnav/rich-code-nav-indexer-core@file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.57-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A.":
+  version: 0.1.57-alpha
+  resolution: "@richnav/rich-code-nav-indexer-core@file:/mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.57-alpha.tgz::locator=rich-code-nav-indexer%40workspace%3A."
   dependencies:
     applicationinsights: ^1.2.0
     axios: ^0.18.1
@@ -518,7 +518,7 @@ __metadata:
     stream-buffers: ^3.0.2
     uuid: ^8.3.1
     which: ^2.0.2
-  checksum: fdbeea83c8b2df69a28889a0f33c2f582288f2c201c96051b7a14e6ec7993532bac6f04f9c8658bd6b278eed7f486f4e63486e1ac312e1f8f7b29d995505e1aa
+  checksum: 612c33f561cb6c7a3186a79b6e9e14a5223e35521853d92de09a45022c4dace565eb13edeb5929a92cab9aad4b2be3e632479b7252dc56316496e0acbce6b682
   languageName: node
   linkType: hard
 
@@ -2669,7 +2669,7 @@ resolve@^1.3.2:
     "@actions/github": ^4.0.0
     "@actions/io": ^1.0.2
     "@actions/tool-cache": ^1.3.0
-    "@richnav/rich-code-nav-indexer-core": /mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.56-alpha.tgz
+    "@richnav/rich-code-nav-indexer-core": /mnt/c/RichCodeNavIndexingCore/richnav-rich-code-nav-indexer-core-v0.1.57-alpha.tgz
     "@types/mocha": ^8.0.1
     "@types/node": ^14.0.27
     applicationinsights: ^1.8.7
